@@ -1,0 +1,10 @@
+# surfaces.yml
+name: surfaces
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - numpy
+  - matplotlib.pyplot
+  - scipy
