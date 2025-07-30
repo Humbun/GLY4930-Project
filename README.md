@@ -12,10 +12,10 @@ In addition to the 3D surface, the following code creates a 2D graph plotting th
 
 
 <p float="left">
-  <img src="\example_images\trig_surface_example.png" width="200" />
-  <img src="\example_images\imshow -00.png" width="200" />
-  <img src="\example_images\imshow -11.png" width="200" /> 
-  <img src="\example_images\imshow -29.png" width="200" />
+  <img src="\example_images\trig_surface_example.png" width="245" />
+  <img src="\example_images\imshow -00.png" width="245" />
+  <img src="\example_images\imshow -11.png" width="245" /> 
+  <img src="\example_images\imshow -29.png" width="245" />
 </p>
 
 
@@ -49,7 +49,7 @@ The user will be prompted to input the name of one of these 3 equations.
 Spyder IDE is ideal for an interactive 3d plot, however, an Ipython Notebook will work without interactivity. To use in Spyder, download `3d Surface Plotting.py`. Alternatively, `3d Surface JL.ipynb` should be used for Jupyter Labs/Notebook.
 
 
-Both files include code that saves images to the user's computer as plots are created. To utilize this code, create a folder labeled `images` in the same location as the `.py` or `.ipynb` files. The line `plt.savefig('images/imshow -' + str(n).zfill(2) + '.png')` should be uncommented to save images.
+Both files include code that saves images to the user's computer as plots are created. To utilize this code, create a folder labeled `images` in the same location as the `.py` or `.ipynb` files. The line `plt.savefig('images/imshow -' + str(n).zfill(2) + '.png')` should be uncommented to save images. This folder will have to be emptied before running the code again since `plt.savefig()` does not write over images.
 
 
 
