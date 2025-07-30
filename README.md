@@ -4,7 +4,7 @@
 
 
 
-This project introduces plotting 3D surfaces in python using Matplotlib. The demo is intended to get the user acquainted with the basics of creating 3D plots and includes 3 test surfaces utilizing a mixture of trigonometric, polynomial, and exponential functions. The surfaces will have random noise and a gaussian filter applied to create a unique plot every time. 
+This project introduces plotting 3D surfaces in Python using Matplotlib. The demo is intended to get the user acquainted with the basics of creating 3D plots and includes 3 test surfaces utilizing a mixture of trigonometric, polynomial, and exponential functions. The surfaces will have random noise and a gaussian filter applied to create a unique plot every time. 
 
 
 
