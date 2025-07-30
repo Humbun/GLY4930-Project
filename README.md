@@ -72,7 +72,7 @@ To run in **Jupyter Labs**, create and activate an environment using the `surfac
 * scipy
 * pandas
 * IPython
-  * required for **Ipython Notebook** Animation
+  * required for **IPython Notebook** Animations
  
 All packages are readily available in **Jupyter Notebook** and **Spyder** and do not have to be installed. Although not ideal, dependencies can also be installed using *pip install "dependency name"*.
 
