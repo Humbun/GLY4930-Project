@@ -55,7 +55,7 @@ The user will be prompted to input the name of one of these 3 equations.
 Both files include code that saves images to the user's computer as plots are created. To utilize this code, create a folder labeled `images` in the same location as the `.py` or `.ipynb` files. The line `plt.savefig('images/imshow -' + str(n).zfill(2) + '.png')` should be uncommented to save images. This folder will have to be emptied before running the code again since `plt.savefig()` does not save over existing images.
 
 
-If the user is using **conda** instead, the repository can be cloned using *git clone https://github.com/Humbun/GLY4930-Project.git*. After cloning, use the *command line* to create and activate the python environment, then open **Jupyter Labs** using the following lines:
+If the user is using **conda** instead, the repository can be cloned using ***git clone https://github.com/Humbun/GLY4930-Project.git*** in the command line. After cloning, use the *command line* to create and activate the python environment, then open **Jupyter Labs** using the following lines:
 * conda env create -f "file_name.yml"
 * conda activate file_name
 * jupyter lab
