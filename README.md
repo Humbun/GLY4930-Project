@@ -12,10 +12,10 @@ In addition to the 3D surface, the following code creates a 2D graph plotting th
 
 
 <p float="left">
-  <img src="\example_images\trig_surface_example.png" width="245" />
-  <img src="\example_images\imshow -00.png" width="245" />
-  <img src="\example_images\imshow -11.png" width="245" /> 
-  <img src="\example_images\imshow -29.png" width="245" />
+  <img src="\example_images\trig_surface_example.png" width="230" />
+  <img src="\example_images\imshow -00.png" width="230" />
+  <img src="\example_images\imshow -11.png" width="230" /> 
+  <img src="\example_images\imshow -29.png" width="230" />
 </p>
 
 
