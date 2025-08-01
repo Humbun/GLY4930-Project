@@ -31,7 +31,7 @@ In the future, moving the code to an **IPython Notebook** (or .ipynb file) would
 
 
 
-The surface function, `surf(name)`, includes 3 equations:
+The function that generates arrays to plot, `surf(name)`, includes 3 equations:
 
 
 
@@ -57,7 +57,7 @@ Both files include code that saves images to the user's computer as plots are cr
 
 If the user is using **conda** instead, the repository can be cloned using ***git clone https://github.com/Humbun/GLY4930-Project.git*** in the command line. After cloning, use the *command line* to create and activate the python environment, then open **Jupyter Labs** using the following lines:
 * conda env create -f "file_name.yml"
-* conda activate file_name
+* conda activate "file_name"
 * jupyter lab
 
 
@@ -74,7 +74,7 @@ To run in **Jupyter Labs**, create and activate an environment using the `surfac
 * IPython
   * required for **IPython Notebook** Animations
  
-All packages are readily available in **Jupyter Notebook** and **Spyder** and do not have to be installed. Although not ideal, dependencies can also be installed using *pip install "dependency name"*.
+All packages are readily available in **Jupyter Notebook** and **Spyder** and do not have to be installed. Although not ideal, dependencies can also be installed using *pip install "dependency name"* through **conda**.
 
 &nbsp;   
 
